@@ -129,7 +129,7 @@ nav ul li a{font-size: 1.5rem; color: #fff; }
     .wrap-2 .text{margin: 0px; width: 100%;}
     footer .container{display: flex; flex-direction: column;}
     .wrap-7 input{ flex-basis: 100%; max-width:100%; border-radius: 50px;}
-    .wrap-7 button{ flex-basis: 100%; max-width:100%; border-radius: 50px;}
+    .wrap-7 button{ flex-basis: 100%; max-width:100%; border-radius: 50px; margin-top: 10px;}
     footer .info{display: flex; flex-direction: column;}
     footer .info .about{flex-basis: 100%; width: 100%; margin: 0px;}
     footer .info .Services{flex-basis: 100%; width: 100%; margin: 30px 0px;}
