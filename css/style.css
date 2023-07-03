@@ -17,7 +17,7 @@ nav ul{display: flex; margin-right: 250px; flex-wrap: wrap;}
 nav ul li{ margin-right: 30px; list-style: none;}
 nav ul li a{font-size: 1.5rem; color: #fff; }
 
-.wrap-2{background-image: url(../img/p1.jpg); background-size: cover; }
+.wrap-2{background-image: url(../img/p1.jpg); background-size: cover; margin-top: 100px;}
 .wrap-2 .container{color: white; text-transform: capitalize; padding-bottom: 100px;}
 .wrap-2 .text{margin-top: 190px; width: 50%;}
 .wrap-2 h1{ font-size: 5em;}
