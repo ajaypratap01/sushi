@@ -60,7 +60,7 @@ nav ul li a{font-size: 1.5rem; color: #fff; }
 .wrap-5 .card b{font-size: 2em;}
 
 
-.wrap-6{background-image: url(../img/p6.png); background-size: cover; background-position: center; background-repeat: no-repeat;}
+.wrap-6{background-image: url(../img/p6.jpg); background-size: cover; background-position: center; background-repeat: no-repeat;}
 .wrap-6 .container{color: #fff; display: flex; flex-direction: column; align-items: center;}
 .wrap-6 img{border-radius: 50%; margin-top: 150px;}
 .wrap-6 h2{text-align: center; padding-bottom: 100px;}
