@@ -45,19 +45,19 @@ $(document).ready(function() {
   
 
 
-  $(document).ready(function() {
-    $(window).scroll(function() {
-      let sP = window.scrollY;
+  // $(document).ready(function() {
+  //   $(window).scroll(function() {
+  //     let sP = window.scrollY;
   
-      if (sP > 80) {
-        $('.wrap-1').css({
-          'background-color': '#21243d68'
-        });
-      } else {
-        $('.wrap-1').css({
-          'background-color': '#21243d'
-        });
-      }
-    });
-  });
+  //     if (sP > 80) {
+  //       $('.wrap-1').css({
+  //         'background-color': '#21243d68'
+  //       });
+  //     } else {
+  //       $('.wrap-1').css({
+  //         'background-color': '#21243d'
+  //       });
+  //     }
+  //   });
+  // });
   
