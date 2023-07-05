@@ -106,7 +106,7 @@ nav ul li a{font-size: 1.5rem; color: #fff; }
 }
 
 @media screen and (max-width: 768px){
-    .wrap-1 .container{padding: 25px; display: flex; flex-direction: column; justify-content: left; align-items: center;}
+    .wrap-1 .container{padding: 25px; display: flex; flex-direction: column; justify-content: left; align-items: center; z-index: 50;}
     .wrap-1 nav{max-width: 100%; flex-basis: 100%;}
     .wrap-1 .container .input{display: none;}
     .logo img{width: 100%; height: auto;}
